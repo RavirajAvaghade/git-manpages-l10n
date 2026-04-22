@@ -1,0 +1,8 @@
+package java;
+public class main
+{
+   public static void main (String[]args)
+   {
+      system.out.println("hello everyone lets contribute");
+  }
+}
